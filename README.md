@@ -1,9 +1,9 @@
-### Hi , I'm krisel Urdaneta 👋
+### Hello, I'm krisel Urdaneta 👋
+### Web Developer
 
-👩‍🎓 Junior developer
-🌱 I’m currently learning developer Backend y DevOps.
+👩‍🎓 Junior Web developer Backend y DevOps.
 💻 I like to explore new technologies and develop software solutions
-
+Skills: HTML / CSS / JAVA SCRIPT
 
 💬 Ask me about 
 
